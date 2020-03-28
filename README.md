@@ -43,7 +43,7 @@
 <hr/>
 <img src="assets/images/checkit-intro.gif">
 
-Check it out, before you checkout.
+Check it out, before you checkout!
 
 Check It Out lets you interactively see and choose what branch you want to check out without the hassle of trying to type out a long or confusing branch name. Checking out branches just got even simpler!
 
